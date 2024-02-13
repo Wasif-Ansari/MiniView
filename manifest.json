@@ -1,0 +1,10 @@
+{
+    "name": "MiniView Picture in Picture (PiP)",
+    "version": "0.0.0.1",
+    "manifest_version": 3,
+    "description": "MiniView extension.",
+    
+    "action": {
+        "default_popup": "index.html"
+    }
+}
